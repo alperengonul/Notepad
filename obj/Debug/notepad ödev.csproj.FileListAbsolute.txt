@@ -1,0 +1,10 @@
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\notepad ödev\notepad ödev\bin\Debug\notepad ödev.exe.config
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\notepad ödev\notepad ödev\bin\Debug\notepad ödev.exe
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\notepad ödev\notepad ödev\bin\Debug\notepad ödev.pdb
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\notepad ödev\notepad ödev\obj\Debug\notepad ödev.csprojAssemblyReference.cache
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\notepad ödev\notepad ödev\obj\Debug\notepad_ödev.Form1.resources
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\notepad ödev\notepad ödev\obj\Debug\notepad_ödev.Properties.Resources.resources
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\notepad ödev\notepad ödev\obj\Debug\notepad ödev.csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\notepad ödev\notepad ödev\obj\Debug\notepad ödev.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\notepad ödev\notepad ödev\obj\Debug\notepad ödev.exe
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\notepad ödev\notepad ödev\obj\Debug\notepad ödev.pdb
